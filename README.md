@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Ruby and javascript on in the hacking project   
+🌱 I’m currently learning Ruby and javascript in the hacking project training   
 💬 Ask me about programming    
 📫 How to reach me: leolair.pro@gmail.com     
 
